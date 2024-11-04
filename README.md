@@ -47,7 +47,8 @@ O repositório é composto pelos seguintes notebooks:
 ## Executando o Processo ETL
 
 Para a execução completa do pipeline, basta executar o notebook **Fairfax-ETL.py**, que irá importar todas as bibliotecas, variáveis, enums e métodos necessários.
-**OBS.:** Em caso de erro ajusta o paths que estão no primeiro comando do notebook **Fairfax-ETL.py** e  **Fairfax-metodos.py**, para o diretório do workspace de quem o executa.
+
+**OBS.:** Em caso de erro ajusta o paths que estão no primeiro comando do notebook **Fairfax-ETL.py**,  **Fairfax-metodos.py** e **Fairfax-teste.py**, para o diretório do workspace de quem o executa.
 
 
 
