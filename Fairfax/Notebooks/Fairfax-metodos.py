@@ -4,7 +4,7 @@
 
 # COMMAND ----------
 
-# MAGIC %run /Workspace/Repos/engdiegosouza@gmail.com/test-etl-covid19/Fairfax/Notebooks/Fairfax-importes_variáveis_enums
+# MAGIC %run /Workspace/Repos/test-etl-covid19/Fairfax/Notebooks/Fairfax-importes_variáveis_enums
 
 # COMMAND ----------
 
