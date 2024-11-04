@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %run /Workspace/Fairfax/Notebooks/Fairfax/Fairfax-metodos
+# MAGIC %run /Workspace/Repos/engdiegosouza@gmail.com/test-etl-covid19/Fairfax/Notebooks/Fairfax-metodos
 
 # COMMAND ----------
 
